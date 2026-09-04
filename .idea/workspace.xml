@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="281b4d19-45b2-493d-acb3-f632fcce6c21" name="Changes" comment="Solution in multithreading" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day23 StringMethod/src/Method/StringInbuiltMethod.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3EAKoksX2ye9nxmT215bqXgqEB7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstrectClassess.executor": "Run",
+    "Application.AbstrectionIntro.executor": "Run",
+    "Application.Anonimus.executor": "Run",
+    "Application.AnotherExampleOfGEnerics.executor": "Run",
+    "Application.ArithmaticOperator.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayIntro.executor": "Run",
+    "Application.AutoboxingExample.executor": "Run",
+    "Application.BitwiseOperator.executor": "Run",
+    "Application.BoundWildcard.executor": "Run",
+    "Application.BoundedGenerics.executor": "Run",
+    "Application.CallByValue.executor": "Run",
+    "Application.CallbyValueAndRefrence.executor": "Run",
+    "Application.ClassFile.executor": "Run",
+    "Application.CollectionInterFaceIntro.executor": "Run",
+    "Application.CollectorInterface.executor": "Run",
+    "Application.ComparableInterfaceIntro.executor": "Run",
+    "Application.ComparatorInterface.executor": "Run",
+    "Application.CompleteMutable.executor": "Run",
+    "Application.ConcurrentModificationException.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.ConstructorOverloading.executor": "Run",
+    "Application.ConsumerFunctionalComposition.executor": "Run",
+    "Application.Consumer_FUnctionalInterface.executor": "Run",
+    "Application.CostumException.executor": "Run",
+    "Application.CoustomLockObject.executor": "Run",
+    "Application.Defaultmethod.executor": "Run",
+    "Application.DemonThread.executor": "Run",
+    "Application.Encaptual.executor": "Run",
+    "Application.EncapusationIntro.executor": "Run",
+    "Application.Enum.executor": "Run",
+    "Application.EnumIntro.executor": "Run",
+    "Application.EnumValus.executor": "Run",
+    "Application.EnumWithValue.executor": "Run",
+    "Application.ExceptionHandlingInChainOfMethod.executor": "Run",
+    "Application.ExceptionIntro.executor": "Run",
+    "Application.ExceptionaFinally.executor": "Run",
+    "Application.Final.executor": "Run",
+    "Application.FunctionIntro.executor": "Run",
+    "Application.Function_FunctionalInterface.executor": "Run",
+    "Application.FunctionalCamposition.executor": "Run",
+    "Application.FunctionalInterfaceCreation.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.GenericsProblem.executor": "Run",
+    "Application.GenericsSolution.executor": "Run",
+    "Application.HandlingException.executor": "Run",
+    "Application.INput.executor": "Run",
+    "Application.ImmutableClass.executor": "Run",
+    "Application.InheritanceIntro.executor": "Run",
+    "Application.InhetitanceIntro.executor": "Run",
+    "Application.Inner.executor": "Run",
+    "Application.InterFaceIntro.executor": "Run",
+    "Application.InterfaceIntro.executor": "Run",
+    "Application.IntermidiateMethod.executor": "Run",
+    "Application.Intro.executor": "Run",
+    "Application.IntroJava.executor": "Run",
+    "Application.Introduction.executor": "Run",
+    "Application.IntuptedException.executor": "Run",
+    "Application.IsAlive.executor": "Run",
+    "Application.Iterable.executor": "Run",
+    "Application.JavaConstructor.executor": "Run",
+    "Application.JoinMethod.executor": "Run",
+    "Application.LIsInterFaceIntro.executor": "Run",
+    "Application.LocalClass.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapMethod.executor": "Run",
+    "Application.MultipleInheritance.executor": "Run",
+    "Application.NEstedTryCatch.executor": "Run",
+    "Application.NestedClass.executor": "Run",
+    "Application.NonDeterminesticThread.executor": "Run",
+    "Application.ObjectClass.executor": "Run",
+    "Application.ObjectClone.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.OptionalIntro.executor": "Run",
+    "Application.OptionalTransformation.executor": "Run",
+    "Application.Outer.executor": "Run",
+    "Application.ParallelStream.executor": "Run",
+    "Application.PredicateCompositionRealExample.executor": "Run",
+    "Application.PriorityQueueIntro.executor": "Run",
+    "Application.PriorityThread.executor": "Run",
+    "Application.Queueinterface.executor": "Run",
+    "Application.RaceCondition.executor": "Run",
+    "Application.RaseConditionSolution.executor": "Run",
+    "Application.Recurtion.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.ResolutionProrityRule.executor": "Run",
+    "Application.RzunnableThread.executor": "Run",
+    "Application.SetIntro.executor": "Run",
+    "Application.SetMethod.executor": "Run",
+    "Application.Software.executor": "Run",
+    "Application.Static.executor": "Run",
+    "Application.StaticFinalPrivate.executor": "Run",
+    "Application.StaticSynchronazition.executor": "Run",
+    "Application.StreamIntermidiateOperation.executor": "Run",
+    "Application.StreamIntro.executor": "Run",
+    "Application.StringBuilderMethod.executor": "Run",
+    "Application.StringInbuiltMethod.executor": "Run",
+    "Application.StringIntro.executor": "Run",
+    "Application.StringIntro2.executor": "Run",
+    "Application.StringMethod.executor": "Run",
+    "Application.SuperWildcard.executor": "Run",
+    "Application.Synchronizedkeyword.executor": "Run",
+    "Application.SynchronzedBlock.executor": "Run",
+    "Application.TerminalOperation.executor": "Run",
+    "Application.TestingRace.executor": "Run",
+    "Application.ThreadNmae.executor": "Run",
+    "Application.ThreadStart_ThreadRun.executor": "Run",
+    "Application.ThreadState.executor": "Run",
+    "Application.ThreadsMethods.executor": "Run",
+    "Application.ThrowAndThrows.executor": "Run",
+    "Application.ThrowsKeyword.executor": "Run",
+    "Application.TreeMapIntro.executor": "Run",
+    "Application.TreeSetMethods.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.Typeconversion.executor": "Run",
+    "Application.UncheckedException.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.VariablesInInterfaces.executor": "Run",
+    "Application.VisibiltyPrroblem.executor": "Run",
+    "Application.Wildcard.executor": "Run",
+    "Application.WildcardInGeneric.executor": "Run",
+    "Application.ZeroretrunComparableClass.executor": "Run",
+    "Application.conditional.executor": "Run",
+    "Application.constructorOverloading.executor": "Run",
+    "Application.inputOutput.executor": "Run",
+    "Application.iteratorCreation.executor": "Run",
+    "Application.javaFinal.executor": "Run",
+    "Application.logicalOperator.executor": "Run",
+    "Application.multiDimantional.executor": "Run",
+    "Application.multithreading.executor": "Run",
+    "Application.predicateFunctionalDecomposition.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Kishan pandey/Java Learning",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java Learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java Learning" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="281b4d19-45b2-493d-acb3-f632fcce6c21" name="Changes" comment="" />
+      <created>1779616112071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779616112071</updated>
+      <workItem from="1779714761846" duration="10000" />
+      <workItem from="1779714792476" duration="73000" />
+    </task>
+    <task id="LOCAL-00001" summary="Java Core Concepts">
+      <option name="closed" value="true" />
+      <created>1788288398037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788288398038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Problem In MultiThreading">
+      <option name="closed" value="true" />
+      <created>1788459865220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788459865220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Problem In MultiThreading">
+      <option name="closed" value="true" />
+      <created>1788459905052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788459905052</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solution in multithreading">
+      <option name="closed" value="true" />
+      <created>1788548136449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788548136449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Core Concepts" />
+    <MESSAGE value="Problem In MultiThreading" />
+    <MESSAGE value="Solution in multithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution in multithreading" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Learning$LIsInterFaceIntro.ic" NAME="LIsInterFaceIntro Coverage Results" MODIFIED="1783774492954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ListInterFace.*</FILTER>
+    </SUITE>
+  </component>
+</project>
