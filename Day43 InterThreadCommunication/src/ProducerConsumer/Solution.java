@@ -1,25 +1,25 @@
-package interThreadCommunication;
+package ProducerConsumer;
 
-public class INterThreadComm {
-    public static void main(String[] args) {
+public class Solution {
+    public static void main(String [] args){
         Box box = new Box();
         Thread t1 = new Thread(() -> {
             for (int i = 0; i < 20; i++) {
                 try {
-                    Thread.sleep(1000);
+                    Thread.sleep(100);
+                    box.producer(10);
                 } catch (InterruptedException e) {
                 }
-                box.producer(10);
             }
         });
 
         Thread t2 = new Thread(() -> {
             for (int i = 0; i < 20; i++) {
                 try {
-                    Thread.sleep(100);
+                    Thread.sleep(70);
+                    box.Consumer();
                 } catch (InterruptedException e) {
                 }
-                box.Consumer();
             }
         });
         t1.start();
@@ -27,19 +27,34 @@ public class INterThreadComm {
     }
 }
 
-class Box {
-    Integer item;
-    Boolean flag = false;
 
-    void producer(int x) {
+class Box {
+    volatile Integer item;
+    volatile Boolean flag = false;
+
+     synchronized void producer(int x) {
+        while (flag==true){
+            try{
+                wait();
+            }
+            catch (InterruptedException e){}
+        }
         item = x;
         flag = true;
         System.out.println("Producer produces " + item);
+        notify();
     }
 
-    void Consumer() {
+     synchronized void Consumer() {
+        while (flag ==false){
+            try{
+                wait();
+            }
+            catch (InterruptedException e){ }
+        }
         System.out.println("Consumer Consumes " + item);
         item = null;
         flag = false;
+        notify();
     }
 }
