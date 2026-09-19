@@ -42,6 +42,9 @@
       <module fileurl="file://$PROJECT_DIR$/Day40 Thread Method/Day40 Thread Method.iml" filepath="$PROJECT_DIR$/Day40 Thread Method/Day40 Thread Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day41MultiThreadingProblem/Day41MultiThreadingProblem.iml" filepath="$PROJECT_DIR$/Day41MultiThreadingProblem/Day41MultiThreadingProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day42 MultiThreading Problem Solution/Day42 MultiThreading Problem Solution.iml" filepath="$PROJECT_DIR$/Day42 MultiThreading Problem Solution/Day42 MultiThreading Problem Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day43 InterThreadCommunication/Day43 InterThreadCommunication.iml" filepath="$PROJECT_DIR$/Day43 InterThreadCommunication/Day43 InterThreadCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day44 Alternative Lock/Day44 Alternative Lock.iml" filepath="$PROJECT_DIR$/Day44 Alternative Lock/Day44 Alternative Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day44 Lock Free Concurrency in java/Day44 Lock Free Concurrency in java.iml" filepath="$PROJECT_DIR$/Day44 Lock Free Concurrency in java/Day44 Lock Free Concurrency in java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day00 Revision AllConcept/J01BasicJava/J01BasicJava.iml" filepath="$PROJECT_DIR$/Day00 Revision AllConcept/J01BasicJava/J01BasicJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Learning.iml" filepath="$PROJECT_DIR$/Java Learning.iml" />
     </modules>
